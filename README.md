@@ -1,5 +1,4 @@
-# Covid-19-Makov-chain-analysis
-# Portfolio: COVID-19 Data Analysis Project
+# COVID-19 Data Analysis Project
 
 ## Project Overview
 In this portfolio project, I showcase my expertise in statistics and data analysis, particularly focusing on COVID-19 data. The project's primary objective was to analyze the waves of COVID-19 cases, measuring their intensity and duration. 
