@@ -37,7 +37,7 @@ In this  project, I showcase my expertise in statistics and data analysis, parti
 ## Conclusion and Insights
 My analysis revealed that the most frequently occurring state during the COVID-19 pandemic was a 50% increase in cases. This finding corresponds to the numerous surges and closures experienced across California during the pandemic.
 
-Overall, the project successfully developed a Markov chain model to simulate COVID-19 case patterns. We demonstrated our ability to make assumptions using real-world data, calculate transition probabilities, and determine the most occurring state. Our model aligned with actual data trends, making it a reliable tool for understanding the dynamics of COVID-19 case fluctuations.
+Overall, the project successfully developed a Markov chain model to simulate COVID-19 case patterns. I demonstrated my ability to make assumptions using real-world data, calculate transition probabilities, and determine the most occurring state. Our model aligned with actual data trends, making it a reliable tool for understanding the dynamics of COVID-19 case fluctuations.
 
 While the project achieved its goals, I encountered challenges, such as determining the most occurring state and refining transition probability ranges. Further refinement and validation could enhance the accuracy of the model. Additionally, a more standardized process for extrapolating data rates may streamline future analyses.
 
